@@ -15,6 +15,6 @@ Content Management Tool is a web-based content management system developed as Ta
 <li>JavaScript</li>
 
 ## `Installation`
-<li>Clone the repository:  </li>
+<li>Clone the repository:https://github.com/123Prithvi/contentManagementtool.git  </li>
 <li>Open the project folder in your preferred code editor.</li>
 <li>Open the content-management-tool.html file in a web browser.</li>
